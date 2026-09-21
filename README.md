@@ -1,20 +1,13 @@
-
 <img width="1919" height="6472" alt="screencapture_1789968729183" src="https://github.com/user-attachments/assets/d3d667fc-b858-4888-a7ca-3a2167c3de80" />
 <img width="1919" height="2062" alt="screencapture_1789968735663" src="https://github.com/user-attachments/assets/db48e355-39f1-4c69-bf45-e20aa8c26cbf" />
+<img width="1919" height="2529" alt="screencapture_1789968934888" src="https://github.com/user-attachments/assets/aaf5cdab-1413-4e53-805c-d4f9f89d778c" />
+<!-- <img width="850" height="8428" alt="screencapture_1789969018903" src="https://github.com/user-attachments/assets/bb73f31d-d731-4beb-864e-1eefefa6ab75" /> -->
+<img width="425" height="4843" alt="screencapture-192-168-119-239-3001-products-categories-2-2026-09-21-09_11_04" src="https://github.com/user-attachments/assets/8d9fbe3c-df25-417a-a087-49691bf68400" />
+<br/>
+<img width="425" height="4374" alt="screencapture-192-168-119-239-3001-products-EXPLORE-DH-S-2026-09-21-09_13_26" src="https://github.com/user-attachments/assets/0aa9b021-ecce-4dfc-900c-8d8b5549adfd" />
 
 
 
-
-<!-- <img width="1920" height="919" alt="1 (4)" src="https://github.com/user-attachments/assets/55ba13cb-0cde-45b1-8f43-1b776af5373e" />
-<img width="1920" height="4482" alt="2 (4)" src="https://github.com/user-attachments/assets/c2f62ae1-21c0-4ffb-9bec-1012bdf38029" />
-
-<img width="1920" height="3176" alt="3 (4)" src="https://github.com/user-attachments/assets/5167f965-bdf4-41ba-abcf-08cb8689fc95" /> -->
-
-<img width="425" height="4019" alt="4 (4)" src="https://github.com/user-attachments/assets/56f1da64-79eb-4552-8c4c-07ba680d1f8e" />
-<img width="1920" height="3286" alt="5 (4)" src="https://github.com/user-attachments/assets/9b04617b-533d-41b3-a199-4bc76b14bf93" />
-
-
-<img width="425" height="4431" alt="6 (4)" src="https://github.com/user-attachments/assets/17d926fd-cc55-4ff4-b916-0de6d9592e36" />
 
 
 
